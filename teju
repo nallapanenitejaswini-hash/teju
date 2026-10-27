@@ -1,0 +1,37 @@
+## JavaFX GUI: Display Text in a Label and an Image in an ImageView
+
+Without writing any code, follow these steps in JavaFX Scene Builder.
+
+[JavaFX Scene Builder User Guide: Working with the Content Panel | JavaFX 2 Tutorials and Documentation](https://images.openai.com/static-rsc-4/qAvn2yStpTrmRyIa6F3lJ46F-bUHsLZ7HdQkUwA1-pW86FiptBw4MXXqUPwHG_A-ViPQV6Zy2Do3MmPNWwssVyLkMVYBUdr9q18JQV2LKJ8lLVkTNsE8wYLPBfrxxcLfWQxTHQW0vcOKxKwlGLKg-Cfr-6VpDxfBoFQVZ-gd9zA?purpose=inline)
+
+Step 1: Create a JavaFX project
+
+Open your JavaFX project in your IDE and open the FXML file using Scene Builder.
+
+[JavaFX tutorial part 5 – Tweaking the GUI](https://images.openai.com/static-rsc-4/CyM5KcxLGNnwY4HpHINliW0RCqQMoXpe9C6fsXvzDyFDZZfJCzFRCrgKLNgsQPQ1nkE7MzZspS5KR07gXX-MOhOxnY_h1Sljh7OA9SERj-3QuFz1Gd60q7z8kjOgzlks8Flux7qJu1hctX1S5ykvzMgpKLyNBR-sK_Xgq-0tuqE?purpose=inline)
+
+Step 2: Add a Label
+
+From the Controls section, drag a Label onto the layout. Set its text to `Welcome to JavaFX`.
+
+[hello guys i'm trying to load an image viewer in javafx using intellij and scene builder the image shows in scene bulder it desnt show after running - Stack Overflow](https://images.openai.com/static-rsc-4/6lrp1AJNMk-TpVGMK3kIp3BL9_uIR2MWCS0z1L55qZMVrCEM1DwrnbDVnw2qWRgxdulce528Cau4_cuJdlAZE-9TPdVjc63pmM293Fq8HHiLdOyuWB8FVGFKhCFB3nkZdHTmYTL7XVhzU-n2Cl4_-QnY1Y1tXgF6EIjbm1BU_P4?purpose=inline)
+
+Step 3: Add an ImageView
+
+Drag an ImageView onto the layout. In the Properties panel, select an image from your project resources and adjust its width and height.
+
+[SceneBuilderによるユーザインタフェースの作成](https://images.openai.com/static-rsc-4/DHM0BckvTbZ_zKTpbJ8kfzPvamLOnyRTQVk-c4G8abpcBjT-_krNlN6Id3Zr6pXKTD689QLsAePGnr4MD3_VFghQ6iSqIcTLfUvtwoiwGfyiZdKDnD-ju0yw6-jSpnAAVWoEXzEvSGZN8FgsxJRCHug1zmP4kIaQcIoXv0-a8jE?purpose=inline)
+
+Step 4: Arrange the components
+
+Place the Label above the ImageView. Adjust the spacing, alignment, and layout size as needed.
+
+## Expected output
+
+## Welcome to JavaFX
+
+[Top 10 der besten Fernwanderwege Europas: Meine Bucket List](https://images.openai.com/static-rsc-4/SgS08K1koiP3k5y1SunuXxw5dFI9xygOI94V7fBMbt-EKp22FJeIAhcIpdJOdTah9_lBVDapyT7F1jWD-uGAvNKWl4icbZrn2KNArvYG-9c0TDWYf40ZuLfdSrnR_6oCx_-7uU0aDnDhZKoSxBDm4CBocjJQaqbQ__Apv-ZeHBk?purpose=inline)
+
+Sample image displayed in the ImageView
+
+Result: The JavaFX GUI displays text using a `Label` and an image using an `ImageView`, without manually writing code.
